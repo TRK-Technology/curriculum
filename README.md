@@ -10,7 +10,7 @@
 Welcome to the course towards artificial intelligence with TRK. In this course, we aim to increase our knowledge in the following areas.
 
 - Maths
-- Possibility
+- Probability
 - Statistics
 - Algorithm
 - Machine Learning
