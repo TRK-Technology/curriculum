@@ -27,7 +27,7 @@ Every Tuesday - Thursday 19:00-20:30 (Live)
 40 mins lesson - 10 mins break - 40 mins lesson
 
 ## :books:	Course Contents
-  - [Contents](https://trktech.sharepoint.com/:b:/s/TRKCourses/EfePKRbKoG1Ei3X_1A1rsmQB12TKb4HiaTegdaTza75Uxg?e=v4JrCi)
+  - [Contents](https://trktech.sharepoint.com/:b:/s/TRKCourses/EbFOcSt1vZVBkH2I79GffUcBj5QrPktQ73c0PUx_w6eBAA?e=xHi0sI)
 
 
 ## :tv: Course Videos
